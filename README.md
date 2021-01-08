@@ -11,6 +11,7 @@
 > I hate it when people see me at the supermarket and they are like: "Hey, what are you doing here ?" !
 > And I'm like : "You know .... Hunting Animals ...!"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >The they answer : Ow! No! Don't do that!
 >It's bad!
 >Really ,I don't know what to say.
@@ -34,3 +35,7 @@ Tariq
 
 *Un ouragan s'empare de Los Angeles. Des milliers de requins s'abattent sur la ville et terrorisent la population. Fin, un surfer également propriétaire de bar, accompagné de ses amis Baz et Nova, part à l'aventure afin de sauver son ex-femme April et leur fille Claudia.*
 josue
+=======
+
+![photo](https://i2.wp.com/boingboing.net/wp-content/uploads/2020/08/screenshot-89.jpg?resize=250%2C190&ssl=1)
+add-thomas
