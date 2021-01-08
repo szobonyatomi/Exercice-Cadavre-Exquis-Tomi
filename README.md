@@ -13,3 +13,7 @@
 >The they answer : Ow! No! Don't do that!
 >It's bad!
 >Really ,I don't know what to say.
+
+
+no idea... any lack of creativity ? Just call me : 
+Nana - 10e/h to put glitter in your mind 
