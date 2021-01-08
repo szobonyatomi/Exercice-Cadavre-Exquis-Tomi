@@ -1,1 +1,1 @@
-# Exercice-Cadavre-Exquis-Tomi
+# Exercice-Tomi
